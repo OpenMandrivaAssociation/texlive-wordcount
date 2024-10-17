@@ -3,7 +3,7 @@ Version:	46165
 Release:	2
 Summary:	Estimate the number of words in a LaTeX document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wordcount
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wordcount
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wordcount.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wordcount.doc.r%{version}.tar.xz
